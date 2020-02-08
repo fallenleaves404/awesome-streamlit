@@ -223,5 +223,12 @@ APPS_IN_GALLERY = [
       is_awesome=True,
       author=authors.ESTEE_TEY,
     ),
+     Resource(
+      name="NYC_Airbnb_Analysis",
+      url=GITHUB_RAW_GALLERY_URL + "NYC_Airbnb_Analysis/app.py",
+      is_awesome=True,
+      tags=[tags.CODE, tags.APP_IN_GALLERY],
+      author=authors.WEI_TAOXIE,
+    ),
     DEFAULT_APP_IN_GALLERY,
 ]
