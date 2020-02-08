@@ -228,7 +228,7 @@ APPS_IN_GALLERY = [
       url=GITHUB_RAW_GALLERY_URL + "NYC_Airbnb_Analysis/app.py",
       is_awesome=True,
       tags=[tags.CODE, tags.APP_IN_GALLERY],
-      author=authors.WEI_TAOXIE,
+      author=authors.WEITAO_XIE,
     ),
     DEFAULT_APP_IN_GALLERY,
 ]
